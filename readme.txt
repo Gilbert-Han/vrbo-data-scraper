@@ -3,4 +3,4 @@
 2) Run vrbo_data_scraper.py to generate the outputs
   The outputs are in tab-delimited format for copy-pasting into a spreadsheet:
     Location;	Distance (hours);	$$$;	Bed Spots;	Bathrooms;	Size (sq ft);	Secluded?
-  Not every field will be filled.
+  Not every field will be filled. May not be accurate / give multiple results depending page text
